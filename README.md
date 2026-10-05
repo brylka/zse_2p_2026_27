@@ -12,6 +12,8 @@ Technik programista · kwalifikacja INF.04 (jednostka INF.04.3)
 | [`01-git-lekcja.pdf`](01-git-lekcja.pdf) | Git – pierwsze kroki: prezentacja na lekcję |
 | [`02-typy-danych-cwiczenia.md`](02-typy-danych-cwiczenia.md) | Typy danych: ćwiczenia do sześciu lekcji działu |
 | [`02-typy-danych.pdf`](02-typy-danych.pdf) | Typy danych: prezentacja podzielona na pięć tematów |
+| [`03-struktury-danych-cwiczenia.md`](03-struktury-danych-cwiczenia.md) | Struktury danych: ćwiczenia do sześciu lekcji działu, kryteria oceny, klucz odpowiedzi |
+| [`03-struktury-danych.pdf`](03-struktury-danych.pdf) | Struktury danych: prezentacja podzielona na sześć tematów |
 
 ## Autor
 
